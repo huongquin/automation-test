@@ -1,0 +1,8 @@
+1.git init
+Khởi tạo một repository Git mới trong thư mục hiện tại.
+2.git add <file_name>
+Thêm một file cụ thể vào staging area trước khi commit.
+3.git add .
+Thêm tất cả các file đã thay đổi vào staging area.
+4. git commit -m "message"
+Lưu các thay đổi đã được add vào lịch sử Git kèm theo message mô tả.
