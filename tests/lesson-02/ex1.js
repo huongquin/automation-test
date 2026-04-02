@@ -1,0 +1,9 @@
+const number = 12;
+const name = 'my number';
+const isEven= false;
+if (a%2===0){
+     isEven= true
+};
+console.log(number);
+console.log (my number);
+console.log (isEven);
